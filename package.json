@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node aap.js",
     "dev": "nodemon aap.js"
