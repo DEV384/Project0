@@ -26,9 +26,18 @@ rating:{
     type: Number,
     default:4.8,
 },
-createdAT:{
-    type: Date,
-    default:Date.now(),
+featured:{
+    type: Boolean,
+    default:false,
+},
+description:{
+    type: String,
+    required: true,
+},
+
+image:{
+    type:String,
+    default:'demo.jpg',
 },
 company:{
     type:String,
@@ -37,7 +46,7 @@ company:{
         message:`{VALUE} is not support`
     },
 },
-type:{
+category:{
     type:String,
     enum:{
         values:['volleyball','basketball','football','bat','badminton'],

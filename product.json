@@ -1,64 +1,86 @@
 [
     {
-        "name":"VECTOR X",
+        "name":"VECTOR X FALCON Volleyball",
         "price":409,
         "company":"vector",
-        "type":"volleyball"
+        "category":"volleyball",
+        "featured": true,
+        "description":"Water Resistant , Outer Material: PVC ,Weight: 260-280 g ,Suitable for: Hard, Wet, Grass",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/t/y/i/260-280-falcon-4-vb-falcon-org-4-volleyball-vector-x-original-imagrch7eqzzvhkh.jpeg?q=70"
     },
     {
         "name":"VECTOR X Battle Basketball - Size: 7",
         "price":452,
         "company":"vector",
-        "type":"basketball"
+        "category":"basketball",
+        "description":"Water Resistant , Outer Material: Premium Rubber, Weight: 450-475 g , Suitable for: Hard, Wet, Grass",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/4/b/9/450-475-battle-7-24-1-bb-battle-blk-gold-7-basketball-vector-x-original-imagrpu5erhgjg8h.jpeg?q=70"
         
     },
     {
-        "name":"NIVIA Engraver Basketball - Size: 7 ",
+        "name":"NIVIA Engraver Basketball",
         "price":599,
         "company":"nivia",
-        "type":"basketball"
+        "category":"basketball",
+        "featured": true,
+        "description":"Water Resistant , Outer Material: Rubber, Weight: 100 g , Suitable for: Wooden Flooring & Indoor Synthetic Surface, Hard Surface",
+        "image":"https://rukminim2.flixcart.com/image/612/612/kkimfm80/ball/4/r/2/100-7-engraver-nv-201-basketball-nivia-original-imafzungs7v2zkny.jpeg?q=70"
         
     },
     {
         "name":"MRF Genius",
         "price":719,
         "company":"mrf",
-        "type":"bat"
+        "category":"bat",
+        "featured": true,
+        "description":"Age Group 15+ Yrs, Blade Made of Poplar Willow , Beginner Playing Level ,Bat Grade: Grade 1 ,Sport Type: Cricket With Cover , Weight Range .900 kg",
+        "image":"https://rukminim2.flixcart.com/image/612/612/k4324y80/bat/b/t/f/1-short-handle-genius-virat-kohli-poplar-willow-cricket-bat-1104-original-imaff25a58s6varv.jpeg?q=70"
         
     },
     {
-        "name":"NIVIA Shining Star Football - Size: 5",
+        "name":"NIVIA Shining Star Football",
         "price":739,
         "company":"nivia",
-        "type":"football"
+        "category":"football",
+        "featured": true,
+        "description":"Water Resistant ,Outer Material: Rubber, Weight: 400-425 g ,Suitable for: Hard Ground without Grass, Wet & Grassy Ground, Artificail Turf",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/d/u/m/400-425-shining-star-5-22-1-fb-292-football-nivia-original-imagk5g5arkwaa8x.jpeg?q=70"
         
     },
     {
-        "name":"DIPSY MRF Bat for All Tennis Ball",
+        "name":"MRF CEAT TENNIS BALL POPLAR WILLOW CRICKET BAT ",
         "price":499,
         "company":"mrf",
-        "type":"bat"
+        "category":"bat",
+        "description":"Age Group 15+ Yrs ,Blade Made of Poplar Willow, Advanced, Training, Intermediate, Beginner Playing Level ,Bat Grade: Grade 1+ ,Sport Type: Cricket With Cover ,Weight Range 0.900 kg",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-bat/b/j/j/900-1201-long-handle-spartan-popular-willow-cricket-bat-full-original-imahymuxjptsay6c.jpeg?q=70"
         
     },
     {
-        "name":"YONEX ZR-100",
+        "name":"YONEX ZR-100 Light Red, Grey, Silver Strung Badminton",
         "price":899,
         "company":"yonex",
-        "type":"badminton"
+        "category":"badminton",
+        "description":"Cover: Full Cover, Strung Type:- Strung ,Grip Size: G4 -3.25 Inches, Weight: 85 g, Head Shape:- Isometric Shape, Beam Width:- 20.5 mm",
+        "image":"https://rukminim2.flixcart.com/image/612/612/kpedle80/racquet/l/n/d/g4-3-25-inches-strung-zr-100-light-2-zr100lightcombo-85-original-imag3n7zf2zz5zgf.jpeg?q=70"
         
     },
     {
         "name":"VECTOR X Attacker Football - Size: 5",
         "price":449,
         "company":"vector",
-        "type":"football"
-        
+        "category":"football",
+        "description":"Water Resistant, Outer Material: PVC, Weight: 400-450 g, Suitable for: Hard, Wet, Grass",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/i/x/7/400-450-attacker-2-0-5-attacker-2-0-blu-grn-5-football-vector-x-original-imagrcahw3z6yt7x.jpeg?q=70"
+
     },
     {
         "name":"NIVIA Spikester ",
         "price":699,
         "company":"nivia",
-        "type":"volleyball"
+        "category":"volleyball",
+        "description":"Water Resistant ,Outer Material: PU Pasted, Weight: 350-390 g, Suitable for: Grassy, Hard",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ball/q/t/a/350-390-spikester-encounter-4-20-5-1-niviavb494-volleyball-nivia-original-imagwtygr57bbhg7.jpeg?q=70"
         
     }
 
